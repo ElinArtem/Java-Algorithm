@@ -1,4 +1,4 @@
-# Java-Algorithm
+# <div align="center">Java-Algorithm</div>
 
 A collection of Java implementations for fundamental algorithms, including brute-force techniques, recursion, and sorting algorithms. This repository serves as a learning resource and reference for algorithmic approaches in Java.
 
